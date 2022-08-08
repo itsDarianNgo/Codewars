@@ -12,4 +12,4 @@ I consistently refactor and optimize my code for efficiency and/or readability.
 
 ## Lessons Learned:
 
-The biggest lessons I've learned practicing these endless supply of questions is understanding that I still have a long way to go and have a lot of room for growth. I'm okay with not having the solution to every challenge, as long as I have the mindset to consistently improve.
+The biggest lessons I've learned, practicing these endless supply of questions, is understanding that I still have a long way to go and have a lot of room for growth. I'm okay with not having the solution to every challenge, as long as I have the mindset to consistently improve.
