@@ -1,0 +1,1 @@
+const reverseWords = (s) => s.match(/\S+/g).reverse().join` `;
