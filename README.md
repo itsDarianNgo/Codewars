@@ -82,5 +82,5 @@ Solutions are meant for learning purposes. Try solving the kata yourself first b
 
 ---
 
-**Last Updated:** [Date]  
+**Last Updated:** November, 12, 2025
 **Language:** Python 3.x
