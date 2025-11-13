@@ -11,8 +11,8 @@
 
 ```python
 def solution_function(param):
-    # Your solution code here
-    pass
+	# Your solution code here
+	pass
 ```
 
 ## Explanation
@@ -34,17 +34,17 @@ from solution import solution_function
 
 @test.describe("Example Tests")
 def test_group():
-    @test.it("Test case 1")
-    def test_case():
-        test.assert_equals(solution_function(input1), expected1)
-    
-    @test.it("Test case 2")
-    def test_case():
-        test.assert_equals(solution_function(input2), expected2)
-    
-    @test.it("Test case 3")
-    def test_case():
-        test.assert_equals(solution_function(input3), expected3)
+	@test.it("Test case 1")
+	def test_case():
+		test.assert_equals(solution_function(input1), expected1)
+
+	@test.it("Test case 2")
+	def test_case():
+		test.assert_equals(solution_function(input2), expected2)
+
+	@test.it("Test case 3")
+	def test_case():
+		test.assert_equals(solution_function(input3), expected3)
 ```
 
 ## Tags
